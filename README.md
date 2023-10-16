@@ -44,14 +44,14 @@ flutter run
 - qr_flutter
 
 
-<a href="https://ibb.co/pxwTZV7"><img src="https://i.ibb.co/80sw2vC/Screenshot-2023-10-17-at-2-17-59-AM.png" alt="Screenshot-2023-10-17-at-2-17-59-AM" border="0"></a>
+<a href="https://ibb.co/pxwTZV7"><img src="https://i.ibb.co/80sw2vC/Screenshot-2023-10-17-at-2-17-59-AM.png" alt="Screenshot-2023-10-17-at-2-17-59-AM" border="0" /></a>
 
-<a href="https://ibb.co/Mgdn2HQ"><img src="https://i.ibb.co/zmdsngD/Screenshot-2023-10-17-at-2-18-28-AM.png" alt="Screenshot-2023-10-17-at-2-18-28-AM" border="0"></a>
+<a href="https://ibb.co/Mgdn2HQ"><img src="https://i.ibb.co/zmdsngD/Screenshot-2023-10-17-at-2-18-28-AM.png" alt="Screenshot-2023-10-17-at-2-18-28-AM" border="0" /></a>
 
-<a href="https://ibb.co/Zc5XC0y"><img src="https://i.ibb.co/r5Y0JVn/Screenshot-2023-10-17-at-2-19-21-AM.png" alt="Screenshot-2023-10-17-at-2-19-21-AM" border="0"></a>
+<a href="https://ibb.co/Zc5XC0y"><img src="https://i.ibb.co/r5Y0JVn/Screenshot-2023-10-17-at-2-19-21-AM.png" alt="Screenshot-2023-10-17-at-2-19-21-AM" border="0" /></a>
 
-<a href="https://ibb.co/rm48yjw"><img src="https://i.ibb.co/c1DfTBr/Screenshot-2023-10-17-at-2-19-27-AM.png" alt="Screenshot-2023-10-17-at-2-19-27-AM" border="0"></a>
+<a href="https://ibb.co/rm48yjw"><img src="https://i.ibb.co/c1DfTBr/Screenshot-2023-10-17-at-2-19-27-AM.png" alt="Screenshot-2023-10-17-at-2-19-27-AM" border="0" /></a>
 
-<a href="https://ibb.co/cwpFZ6s"><img src="https://i.ibb.co/7QTWZn0/Screenshot-2023-10-17-at-2-19-49-AM.png" alt="Screenshot-2023-10-17-at-2-19-49-AM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
+<a href="https://ibb.co/cwpFZ6s"><img src="https://i.ibb.co/7QTWZn0/Screenshot-2023-10-17-at-2-19-49-AM.png" alt="Screenshot-2023-10-17-at-2-19-49-AM" border="0" /></a>
 
-<a href="https://ibb.co/G3d40TX"><img src="https://i.ibb.co/1J0tL63/Screenshot-2023-10-17-at-2-21-44-AM.png" alt="Screenshot-2023-10-17-at-2-21-44-AM" border="0"></a>
+<a href="https://ibb.co/G3d40TX"><img src="https://i.ibb.co/1J0tL63/Screenshot-2023-10-17-at-2-21-44-AM.png" alt="Screenshot-2023-10-17-at-2-21-44-AM" border="0" /></a>
